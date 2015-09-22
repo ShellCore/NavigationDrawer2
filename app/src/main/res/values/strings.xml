@@ -12,4 +12,6 @@
     <string name="all_mails">Todos los correos</string>
     <string name="trash">Papelera</string>
     <string name="spam">Spams</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
