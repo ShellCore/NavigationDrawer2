@@ -5,4 +5,11 @@
     <string name="action_settings">Settings</string>
     <string name="user_name">Shell Core</string>
     <string name="user_email">shell.one.core@gmail.com</string>
+    <string name="inbox">Inbox</string>
+    <string name="starred">Favorito</string>
+    <string name="sent_mail">Enviar email</string>
+    <string name="drafts">Drafts</string>
+    <string name="all_mails">Todos los correos</string>
+    <string name="trash">Papelera</string>
+    <string name="spam">Spams</string>
 </resources>
